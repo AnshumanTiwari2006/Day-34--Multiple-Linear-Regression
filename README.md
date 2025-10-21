@@ -1,4 +1,4 @@
-# Multiple Linear Regression Analysix
+# Multiple Linear Regression Analysis
 
 This repository contains a Jupyter Notebook (**multiple_linear_regression.ipynb**) that demonstrates the implementation and evaluation of a **Multiple Linear Regression** model using Python and the **scikit-learn** library.
 
